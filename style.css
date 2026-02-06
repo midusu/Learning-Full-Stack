@@ -17,7 +17,7 @@ h1 {
 .add-box {
     display: flex;
     gap: 5px;
-    margin-bottom: 15px;
+    margin-bottom: 16px;
 }
 
 .add-box input {
