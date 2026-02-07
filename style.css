@@ -104,7 +104,7 @@ li.completed .task span {
     -webkit-appearance: none;
     width: 18px;
     height: 18px;
-    border: 2px solid #ff6b5c;
+    border: 2px solid #999;
     border-radius: 50%;
     cursor: pointer;
     position: relative;
@@ -113,6 +113,7 @@ li.completed .task span {
 
 .task input[type="checkbox"]:checked {
     background-color: #ff6b5c;
+    border-color: #ff6b5c;
 }
 
 
